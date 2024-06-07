@@ -1,0 +1,5 @@
+pytest
+pytest-cov #shows coverage report of tested code
+pylint #Pylint is a static code analyser 
+black #A formating tool
+ipython #a command shell for interactive computing
