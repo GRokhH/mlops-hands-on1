@@ -25,6 +25,7 @@
 
 **Run the test**
 - to make the test extra verbous we use the "-vv" flag
+- the flag "--cov" belongs to pytest-cov and here we want it to give us a coverage report of the hello file
 - we run "make test"
 - pytest-cov shows us what percentage of the tests have passed
 
