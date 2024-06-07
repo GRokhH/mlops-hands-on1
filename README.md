@@ -1,3 +1,5 @@
+[![Python application test with GitHub Actions](https://github.com/GRokhH/mlops-hands-on1/actions/workflows/testing-ci.yml/badge.svg)](https://github.com/GRokhH/mlops-hands-on1/actions/workflows/testing-ci.yml)
+
 1. create a venv
 1. Makefile -> keep a lot of complex commands (like a cookbook)
 1. requirements.txt
